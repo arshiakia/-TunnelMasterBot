@@ -1,4 +1,4 @@
-Copyright (c) 2025 ARSHIAKIA
+# Copyright (c) 2025 ARSHIAKIA
 
 All rights reserved.
 
@@ -6,3 +6,12 @@ No one is permitted to use, copy, distribute, modify, or sell this code
 without explicit written permission from the owner.
 
 Any unauthorized use will be subject to legal action.
+
+# کپی‌رایت (c) ۲۰۲۵ ARSHIAKIA
+
+تمام حقوق محفوظ است.
+
+هیچ‌کس اجازه استفاده، کپی، توزیع، تغییر یا فروش این کد را  
+بدون اجازه کتبی و صریح مالک ندارد.
+
+هرگونه استفاده بدون اجازه منجر به پیگرد قانونی خواهد شد.
